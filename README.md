@@ -29,9 +29,17 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=SethulakshmiSanthosh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="SethulakshmiSanthosh-pw" 
     bg_color=#808080/></p>
+
+<p ><img align="center" height="250px" width="1000px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SethulakshmiSanthosh&theme=radical"
+    alt="SethulakshmiSanthosh-pw" 
+    bg_color=#808080/></p>
     
-![SethulakshmiSanthosh GitHub stats](https://github-readme-stats.vercel.app/api?username=SethulakshmiSanthosh&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SethulakshmiSanthosh&theme=radical)](https://git.io/streak-stats) 
+<p ><img align="center" height="300px" width="1000px"
+    src="https://github-readme-stats.vercel.app/api?username=SethulakshmiSanthosh&show_icons=true&theme=radical"
+    alt="SethulakshmiSanthosh-pw" 
+    bg_color=#808080/></p>
+
 
 ****
 
