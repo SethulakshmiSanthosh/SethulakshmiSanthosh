@@ -30,7 +30,7 @@
     alt="SethulakshmiSanthosh-pw" 
     bg_color=#808080/></p> 
 
-<p ><img align="center" height="200px" width="1000px"
+<p ><img align="center" height="200px" width="1000px" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=SethulakshmiSanthosh&theme=radical"
     alt="SethulakshmiSanthosh-pw" 
     bg_color=#808080/></p>
