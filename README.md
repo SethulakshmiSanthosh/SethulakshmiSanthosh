@@ -28,7 +28,7 @@
 <p ><img align="center" height="125px" width="1000px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=SethulakshmiSanthosh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="SethulakshmiSanthosh-pw" 
-    bg_color=#808080/></p>
+    bg_color=#808080/></p> 
 
 <p ><img align="center" height="200px" width="1000px"
     src="https://github-readme-streak-stats.herokuapp.com/?user=SethulakshmiSanthosh&theme=radical"
