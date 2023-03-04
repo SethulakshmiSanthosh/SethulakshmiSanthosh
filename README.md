@@ -3,7 +3,7 @@
 
 ***
 
-<img src= "https://64.media.tumblr.com/0f035d542b5340b14da558c700a7d983/8b1e396f12aab916-38/s640x960/3fdf90e60c44fb29cd490033c702ab576500a78a.gifv" width="100%">
+<p align="center"> <img src= "https://media.tenor.com/MI-nCOFzlwAAAAAC/anime-retro.gif" width="50%"><img src= "https://media.tenor.com/MI-nCOFzlwAAAAAC/anime-retro.gif" width="50%"> </p>
 
 ***
 
